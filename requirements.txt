@@ -1,0 +1,14 @@
+wheel==0.35.1
+flask==1.1.2
+flask_cors==3.0.7
+flask-socketio==4.3.1
+reportlab
+python-barcode==0.13.1
+pyserial==3.4
+python-dotenv==0.14.0
+waitress==1.4.4
+
+python-engineio==3.13.2
+python-socketio==4.6.0
+#gunicorn
+pywin32 ; sys_platform == 'win32'
