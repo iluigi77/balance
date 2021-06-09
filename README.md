@@ -18,8 +18,8 @@ pip install -r requirements.txt
 ~~~  
 #### create .env file
 ~~~
-SECRET_KEY=dqcmlacsfvmqbwcsclgedqeapmqempssemgyclhlc
-API_KEY=qqemblrqttcvqtlddufnpeqqmalcnscclrqtttlsc
+SECRET_KEY=yousecrretkey
+API_KEY=youapikey
 CSRF_ENABLED=True
 ~~~
 
